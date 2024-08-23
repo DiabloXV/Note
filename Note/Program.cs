@@ -6,6 +6,7 @@ namespace Note
     {
         static void Main(string[] args)
         {
+            //M2M Realtionships
             ITIDbContext context = new ITIDbContext(); 
         }
     }
